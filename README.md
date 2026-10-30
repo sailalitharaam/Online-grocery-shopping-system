@@ -1,4 +1,4 @@
-# FreshCart — Team 2 WTS Application
+# FreshCart
 
 A JSP, Java Servlet, JDBC and MySQL academic web application prototype for the assigned online grocery shopping topic.
 
